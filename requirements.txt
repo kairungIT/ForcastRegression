@@ -4,5 +4,5 @@ matplotlib
 seaborn
 streamlit
 plotly==5.9.0
-openpyxl
+
 scikit-learn
